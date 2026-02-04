@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+*.txt
+users_base.txt
+mods.txt
+banned_users.json
